@@ -42,7 +42,9 @@ The Docker image was built using:
 docker build -t ayodejare/nodejs-app:1.0 .
 ```
 
-![Docker Build](Screenshots/Screenshot 2026-09-.png)
+![Docker Hub Image](Screenshots/docker-build-1.png)
+
+![Docker Hub Image](Screenshots/docker-build-2.png)
 
 ### 2. Push Image to Docker Hub
 
@@ -54,7 +56,7 @@ ayodejare/nodejs-app:1.0
 
 The image was then pushed to Docker Hub.
 
-![Docker Hub Image](Screenshots/dockerhub-image.png)
+![Docker Hub Image](Screenshots/docker-hub.png)
 
 ### 3. Run the Docker Container
 
@@ -70,7 +72,7 @@ The running container was verified with:
 docker ps
 ```
 
-![Running Docker Container](Screenshots/docker-container.png)
+![Running Docker Container](Screenshots/running-docker.png)
 
 ### 4. Access the Application
 
