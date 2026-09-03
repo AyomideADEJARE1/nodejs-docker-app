@@ -42,7 +42,7 @@ The Docker image was built using:
 docker build -t ayodejare/nodejs-app:1.0 .
 ```
 
-![Docker Build](Screenshots/docker-build.png)
+![Docker Build](Screenshots/Screenshot 2026-09-.png)
 
 ### 2. Push Image to Docker Hub
 
@@ -82,7 +82,7 @@ http://<EC2-PUBLIC-IP>:3000
 
 The application displayed the successful Docker deployment message.
 
-![Live Application](Screenshots/live-application.png)
+![Live Application](Screenshots/live-app.png)
 
 ## Conclusion
 
